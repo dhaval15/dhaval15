@@ -1,3 +1,2 @@
-## Hi there
-
-- Currently working on a small [project](https://github.com/dhaval15/flow) on flutter.
+- Look me up at [Portfolio](https://portfolio.dhaval.cloud)
+- Follow me on my blog at [Quirky Comma](https://www.quirkycomma.com)
